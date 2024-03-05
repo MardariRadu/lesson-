@@ -16,5 +16,6 @@ public class Variables {
         System.out.println(c);
         System.out.println(b);
         System.out.println(myByte);
+        System.out.println("a");
     }
 }
